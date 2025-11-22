@@ -1,32 +1,146 @@
- <h1 align="center">Hi 👋, I'm SATYAM KUMAR</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm SATYAM KUMAR</h1>
+<h2 align="center">AI & Data Intelligence Engineer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam9577&label=Profile%20views&color=0e75b6&style=flat" alt="satyam9577" /> </p>
-
-- 🔭 I’m currently Learning **React.js,Tailwind CSS**
-
-- 👯 I’m looking to collaborate on **ᴍᴇʀɴ sᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ**
-
-- 🤝 I’m looking for help with **ʀᴇᴀᴄᴛ.ᴊs**
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **satyamk8781@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/satyam-kumar-2045921b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyam-kumar-2045921b8" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100012959131685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012959131685" height="30" width="40" /></a>
-<a href="https://instagram.com/___satyamkumar___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/___satyamkumar___" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cunnp_338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/cunnp_338" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/satyamk8781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/satyamk8781" height="30" width="40" /></a>
-<a href="https://leetcode.com/satyamk8781/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/satyamk8781" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satyamil5k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/satyamil5k" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyam9577&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🚀 **About Me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam9577&show_icons=true&locale=en" alt="satyam9577" /></p> 
+I am a results-driven **Data Science & AI practitioner** with expertise across the entire data lifecycle —  
+from **data collection, processing, analytics, modeling, prediction, optimization, deployment, and visualization**.
 
+I work deeply in:
+
+- **Machine Learning (ML)**
+- **Deep Learning (DL)**
+- **Natural Language Processing (NLP)**
+- **Predictive Modeling & Forecasting**
+- **Probability & Statistics**
+- **Data Engineering Pipelines**
+- **Business Intelligence & Visualization**
+- **AI Automation & LLM Technologies**
+
+I enjoy solving complex real-world problems using **data-driven intelligence** and continuously explore  
+**future-ready technologies** like Gen-AI, LLM fine-tuning, AutoML, Reinforcement Learning, and MLOps.
+
+📫 **Reach me at:** **satyamk8781@gmail.com**
+
+---
+
+## 🌐 **Connect With Me**
+<p align="left">
+<a href="https://www.linkedin.com/in/satyam-kumar-2045921b8"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+<a href="https://www.hackerrank.com/satyamk8781"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" /></a>
+<a href="https://leetcode.com/satyamk8781/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/satyamil5k"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" /></a>
+</p>
+
+---
+
+## 🧠 **Core Expertise & Skills**
+
+### 🔹 **Programming & Data**
+- Python (NumPy, Pandas, Matplotlib, Seaborn)
+- SQL (MySQL, PostgreSQL)
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Wrangling & Feature Engineering
+
+### 🔹 **Machine Learning**
+- Supervised & Unsupervised Learning  
+- Predictive Modeling  
+- Classification, Regression, Clustering  
+- Dimensionality Reduction (PCA, SVD)  
+- Ensemble Methods (RF, XGBoost, CatBoost)
+
+### 🔹 **Deep Learning**
+- Neural Networks  
+- CNNs, RNNs, LSTMs, GRUs  
+- Image Processing  
+- Sequence Modeling
+
+### 🔹 **NLP & LLMs**
+- Text Classification  
+- Named Entity Recognition  
+- Sentiment Analysis  
+- Vector Embeddings  
+- Transformer Models  
+- LLM Fine-Tuning & Prompt Engineering
+
+### 🔹 **Statistics & Mathematics**
+- Probability & Mathematical Statistics  
+- Hypothesis Testing  
+- Statistical Modeling  
+- Optimization Techniques  
+- Time Series & Forecasting
+
+### 🔹 **Business Intelligence**
+- Power BI  
+- Excel (Advanced)  
+- DAX, Dashboarding  
+- KPI Measurement  
+- Storytelling with Data
+
+### 🔹 **Data Engineering Foundations**
+- ETL Pipelines  
+- Data Pipelines in Python  
+- API integration  
+- Automation & Scripting  
+- Cloud Fundamentals (AWS basics)
+
+### 🔹 **MLOps & Future Technologies**
+- Model Evaluation, Monitoring  
+- Version Control (Git)  
+- AutoML  
+- Model Deployment Basics  
+- Working knowledge of modern AI frameworks  
+- Exploring:  
+  - Reinforcement Learning  
+  - Generative AI  
+  - LLM Agents  
+  - Vector Databases  
+  - Retrieval-Augmented Generation (RAG)
+
+---
+
+## 🛠 **Tools & Technologies**
+<p align="left">
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<!-- SQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+
+<!-- Power BI -->
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>
+
+<!-- TensorFlow -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+
+<!-- PyTorch -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+
+<!-- Pandas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+
+<!-- NumPy -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+
+<!-- Git -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+
+<!-- Excel -->
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40"/>
+
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=satyam9577&show_icons=true&locale=en" alt="stats" />
+</p>
